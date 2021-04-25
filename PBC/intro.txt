@@ -1,0 +1,2 @@
+# Project for practicing the Blockchain
+# this project aim to practice the blockchain's framework and principle of working.
